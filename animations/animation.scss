@@ -1,0 +1,102 @@
+.animation-img{
+    opacity: 0;
+    animation: fontimg 1s linear forwards;
+    animation-delay: 1.2s;
+}
+
+@keyframes fontimg{
+    0%{
+        opacity: 0;
+       transform: scale(0)
+    }
+
+    100%{
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.animation-right{
+    opacity: 0;
+    animation: slideright 1.5s ease forwards;
+    animation-delay: 1s;
+}
+
+@keyframes slideright {
+    0%{
+        opacity: 0;
+        transform: translateX(50px);
+    }
+
+    100%{
+        opacity: 1;
+        transform: translateX(0);
+        transform:rotate(180deg);
+    }
+}
+
+.animation-job{
+    opacity: 0;
+    animation: job 1.6s ease forwards;
+    animation-delay: .9s;
+}
+
+@keyframes job{
+    0%{
+        opacity: 0;
+       transform: translateY(40px)
+    }
+
+    100%{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animation-x{
+    opacity: 0;
+    animation: title 1.6s ease forwards;
+    animation-delay: .6s;
+}
+
+@keyframes title {
+    0%{
+        opacity: 0;
+        transform: translateX(-50px);
+    }
+
+    100%{
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.animation{
+    opacity: 0;
+    animation: appearnav .5s ease forwards;
+    animation-delay: calc(0.2s * var(--i))
+}
+
+@keyframes appearnav{
+    0%{
+        opacity: 0;
+       transform: translateY(10em)
+    }
+
+    100%{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes react-reveal{
+    0%{
+opacity: 0;
+transform: translate3d(-30px, 0px, 0px);
+}
+
+100% {
+opacity: 1;
+transform: none;
+}
+}
