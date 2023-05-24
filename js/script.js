@@ -64,24 +64,24 @@ const homeTexts = {
 		ua: "Контакти",
 	},
 	"home_page-6": {
-		en: "Vasia Pupkin",
-		ua: "Вася Пупкін",
+		en: "Vadym Serapionov",
+		ua: "Вадим Серапіонов",
 	},
     "home_page-7": {
 		en: "Frontend developer ",
 		ua: "Фронтенд розробник ",
 	},
 	"home_page-7_1": {
-		en: "100 years old, Kyiv",
-		ua: "100 років, Київ",
+		en: "26 years old, Kyiv",
+		ua: "26 років, Київ",
 	},
 	"home_page-8": {
 		en: "About me",
 		ua: "Про мене",
 	},"home_page-9": 
     {
-		en: "Hi, i'm  - beginner Frontend Developer from Kyiv. I'm interested in programming and everything connected with it.",
-		ua: "Привіт, я  - початківець Frontend Developer з Києва. Мене цікавить програмування та все, що з ним пов'язано.",
+		en: "Hi, i'm Vadym   - beginner Frontend Developer from Kyiv. I'm interested in programming and everything connected with it.",
+		ua: "Привіт, я Вадим  - початківець Frontend Developer з Києва. Мене цікавить програмування та все, що з ним пов'язано.",
 	},"home_page-10": 
     {
 		en: "I'm studying at courses \"The Complete 2023 Web Development Bootcamp\" on Udemy.",
@@ -108,8 +108,8 @@ const homeTexts = {
 		ua: "Qubit - лендінг",
 	},"home_page-16": 
     {
-		en: "Outsourcing company - project",
-		ua: "Компанія з аутсорсингу - проект",
+		en: "Lamp - landing page",
+		ua: "Lamp - landing page",
 	},"home_page-17": 
     {
 		en: "Contacts",
