@@ -72,8 +72,8 @@ const homeTexts = {
 		ua: "Фронтенд розробник ",
 	},
 	"home_page-7_1": {
-		en: "26 years old, Kyiv",
-		ua: "26 років, Київ",
+		en: "27 years old, Kyiv",
+		ua: "27 років, Київ",
 	},
 	"home_page-8": {
 		en: "About me",
@@ -84,8 +84,8 @@ const homeTexts = {
 		ua: "Привіт, я Вадим  - початківець Frontend Developer з Києва. Мене цікавить програмування та все, що з ним пов'язано.",
 	},"home_page-10": 
     {
-		en: "I'm studying at courses \"The Complete 2023 Web Development Bootcamp\" on Udemy.",
-		ua: "Я навчаюся на курсах \"The Complete 2023 Web Development Bootcamp\" на Udemy.",
+		en: "I am studying in the educational program provided by \"The Rolling Scopes school\".",
+		ua: "Я навчаюся в програмі освіти від \"The Rolling Scopes school\".",
 	},"home_page-11": 
     {
 		en: "Ready to implement excellent projects with wonderful people.",
